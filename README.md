@@ -2,7 +2,13 @@
 
 - 🚀 Sou um estudante de tecnologia apaixonado por inovação e desenvolvimento e estou cursando Análise e Desenvolvimento de Sistemas.
 - 💡 Tenho experiência prática em HTML, CSS, JavaScript, React, Node.js, Python, Java e bancos de dados.
-- 🔍 Estou em busca da minha primeira oportunidade na área para aplicar meus conhecimentos, aprender continuamente e contribuir com soluções criativas e eficientes! 
+- 🔍 Estou em busca da minha primeira oportunidade na área para aplicar meus conhecimentos, aprender continuamente e contribuir com soluções criativas e eficientes!
+
+  <div>
+    <a href="https://www.instagram.com/s0usa.vinicius_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:sousavinidev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/viniciussousaduarte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
 
 <div>
   <a href="https://github.com/Vinicius-Sousa-Duarte">
@@ -23,9 +29,3 @@
 
   ##
   
-<div>
-  <a href="https://www.instagram.com/s0usa.vinicius_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:sousavinidev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/viniciussousaduarte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
