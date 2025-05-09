@@ -1,8 +1,8 @@
 ## Olá, me chamo Vinicius de Sousa Duarte 👋
 
-- 🚀 Sou um estudante de tecnologia apaixonado por inovação e desenvolvimento e estou cursando Análise e Desenvolvimento de Sistemas.
+- 🚀 Sou um desenvolvedor apaixonado por inovação e desenvolvimento e estou cursando Análise e Desenvolvimento de Sistemas.
 - 💡 Tenho experiência prática em HTML, CSS, JavaScript, React, Node.js, Python, Java e bancos de dados.
-- 🔍 Estou em busca da minha primeira oportunidade na área para aplicar meus conhecimentos, aprender continuamente e contribuir com soluções criativas e eficientes!
+- 🔍 Atualmente atuo como Desenvolvedor Back-End Java Júnior, aprendendo continuamente e contribuindo com soluções criativas e eficientes!
 
   <div>
     <a href="https://www.instagram.com/s0usa.vinicius_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
