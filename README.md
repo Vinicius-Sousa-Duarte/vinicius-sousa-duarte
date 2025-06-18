@@ -23,7 +23,6 @@ Olá! Sou **Vinicius**, desenvolvedor Full Stack apaixonado por inovação e tec
 <div style="display:inline_block;">
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </div>
@@ -87,13 +86,14 @@ Ferramenta Python para conversão de arquivos Excel legados
 ### **Especializações em Andamento**
 - 💻 **JavaScript e TypeScript Avançado** - Udemy *(148 horas)*
 - ☕ **Formação Java** - Alura
-- 🐍 **Python Básico** - Fundação Bradesco
-- 🌐 **HTML e CSS** - Fundação Bradesco
-
+- 
 ### **Certificações Complementares**
 - 📊 **Análise de Dados** - Hashtag Treinamentos
 - 🗄️ **SQL Avançado** - Udemy
 - 🚀 **Jornada Full Stack** - HashTag Treinamentos
+- 🐍 **Python Básico** - Fundação Bradesco
+- 🌐 **HTML e CSS** - Fundação Bradesco
+
 
 ## 💪 Soft Skills
 
