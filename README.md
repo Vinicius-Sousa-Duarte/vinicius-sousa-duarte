@@ -105,9 +105,7 @@ Ferramenta Python para conversão de arquivos Excel legados
   
   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s0usa.vinicius_/)
   [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciussousavini0@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciussousaduarte/)
-  [![Phone](https://img.shields.io/badge/-Telefone-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+5511932998750)
-  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciussousaduarte/)  
 </div>
 
 ---
