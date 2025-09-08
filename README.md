@@ -8,7 +8,7 @@
 
 ## 🌟 Sobre Mim
 
-Olá! Sou **Vinicius**, desenvolvedor Full Stack apaixonado por inovação e tecnologia. Atualmente cursando **Análise e Desenvolvimento de Sistemas** (4° Semestre) na UMC e atuando como **Desenvolvedor Back-End Java Júnior**.
+Olá! Sou **Vinicius**, desenvolvedor Full Stack apaixonado por inovação e tecnologia. Atualmente cursando **Análise e Desenvolvimento de Sistemas** (4° Semestre) na UMC e atuando como **Desenvolvedor Back-End Java**.
 
 - 🚀 **Foco atual:** Desenvolvimento Back-End com Java, Spring Boot e sistemas escaláveis
 - 💡 **Filosofia:** Código limpo, soluções eficientes e entrega de qualidade
@@ -17,6 +17,8 @@ Olá! Sou **Vinicius**, desenvolvedor Full Stack apaixonado por inovação e tec
 - ⚡ **Localização:** Monte Serrat, Santa Isabel - SP
 - 📧 **Email:** viniciussousavini0@gmail.com
 
+---
+
 ## 🛠️ Stack Tecnológica
 
 ### **Linguagens & Frameworks**
@@ -24,6 +26,7 @@ Olá! Sou **Vinicius**, desenvolvedor Full Stack apaixonado por inovação e tec
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </div>
 
@@ -44,16 +47,22 @@ Olá! Sou **Vinicius**, desenvolvedor Full Stack apaixonado por inovação e tec
 ### **DevOps & Ferramentas**
 <div style="display:inline_block;">
   <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img align="center" alt="Jenkins" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
   <img align="center" alt="GitLab" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+  <img align="center" alt="Datadog" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" />
   <img align="center" alt="Bitbucket" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" />
 </div>
+
+---
 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-Sousa-Duarte&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 </div>
+
+---
 
 ## 🎓 Formação & Certificações
 
@@ -71,10 +80,13 @@ Olá! Sou **Vinicius**, desenvolvedor Full Stack apaixonado por inovação e tec
 - 🐍 **Python Básico** - Fundação Bradesco
 - 🌐 **HTML e CSS** - Fundação Bradesco
 
+---
 
 ## 💪 Soft Skills
 
 🎯 **Comunicação Eficaz** • 🤝 **Trabalho em Equipe** • 🧠 **Resolução de Problemas** • 🔄 **Adaptabilidade** • ⚡ **Proatividade**
+
+---
 
 ## 🤝 Vamos Conectar?
 
