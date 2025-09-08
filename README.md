@@ -8,7 +8,7 @@
 
 ## 🌟 Sobre Mim
 
-Olá! Sou **Vinicius**, desenvolvedor Full Stack apaixonado por inovação e tecnologia. Atualmente cursando **Análise e Desenvolvimento de Sistemas** (3° Semestre) na UMC e atuando como **Desenvolvedor Back-End Java Júnior**.
+Olá! Sou **Vinicius**, desenvolvedor Full Stack apaixonado por inovação e tecnologia. Atualmente cursando **Análise e Desenvolvimento de Sistemas** (4° Semestre) na UMC e atuando como **Desenvolvedor Back-End Java Júnior**.
 
 - 🚀 **Foco atual:** Desenvolvimento Back-End com Java, Spring Boot e sistemas escaláveis
 - 💡 **Filosofia:** Código limpo, soluções eficientes e entrega de qualidade
