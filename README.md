@@ -16,7 +16,7 @@ Graduando em **Análise e Desenvolvimento de Sistemas** na UMC, combino forte ba
 - 🚀 **Especialidades:** Desenvolvimento de APIs REST, Arquitetura de Microsserviços e Front-End reativo.
 - ☁️ **Cloud & DevOps:** Experiência com ecossistema AWS (Lambda, SQS, ECS) e CI/CD.
 - ⚡ **Localização:** Santa Isabel - SP.
-- 📧 **Email:** viniciussousavini0@gmail.com
+- 📧 **Email:** sousavinidev@gmail.com
 
 ---
 
