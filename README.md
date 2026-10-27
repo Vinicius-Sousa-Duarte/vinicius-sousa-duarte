@@ -27,10 +27,52 @@ Graduando em **Análise e Desenvolvimento de Sistemas na UMC**, combinando apren
 
 # 💼 Experiência Profissional
 
+
+## **Go2Win**
+
+### **Desenvolvedor Full Stack Pleno**
+📅 Abr/2026 - Atual
+
+Atuação na manutenção, sustentação e evolução de aplicações corporativas, participando de todo o ciclo de desenvolvimento, desde a análise de requisitos até a entrega de novas funcionalidades e suporte em produção.
+
+**Principais atividades:**
+
+☕ **Back-End**
+- Desenvolvimento e manutenção de aplicações utilizando **Java 8, 11, 17 e 21**
+- Implementação e evolução de APIs REST com **Spring Boot**
+- Correção de bugs e otimização de performance
+- Implementação de regras de negócio e integrações entre sistemas
+
+🎨 **Front-End**
+- Desenvolvimento e manutenção de aplicações utilizando **Angular 16**
+- Construção e evolução de componentes reutilizáveis
+- Integração de interfaces com APIs REST
+- Desenvolvimento de páginas server-side utilizando **Thymeleaf**
+
+🗄️ **Banco de Dados**
+- Desenvolvimento e manutenção de procedures, functions e packages utilizando **PL/SQL**
+- Criação e otimização de consultas SQL
+- Análise e correção de problemas relacionados ao banco de dados
+
+📊 **Relatórios**
+- Desenvolvimento e manutenção de relatórios corporativos utilizando **JasperServer**
+- Criação de consultas, templates e datasets para relatórios gerenciais e operacionais
+
+🔄 **Sustentação e Evolução**
+- Correção de incidentes e suporte a ambientes corporativos
+- Implementação de melhorias e novas funcionalidades
+- Participação em refinamentos técnicos e revisões de código
+- Apoio em homologações e implantações
+
+🛠️ **Tecnologias**
+Java 8, Java 11, Java 17, Java 21, Spring Boot, Angular 16, Thymeleaf, PL/SQL, JasperServer, SQL, Git, REST APIs e Metodologias Ágeis.
+
+---
+
 ## **Kairos Tecnologia da Informação**
 
 ### **Desenvolvedor Java Back-End (Atuação Full Stack)**  
-📅 Abr/2024 - Atual
+📅 Abr/2024 - Abr/2026
 
 Atuação no desenvolvimento e manutenção de sistemas corporativos, trabalhando em diferentes camadas da aplicação.
 
